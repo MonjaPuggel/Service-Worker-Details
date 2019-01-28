@@ -1,0 +1,7 @@
+{
+  "pwa": {
+    "project": "Service-Worker-Details",
+    "skipInstall": false,
+    "directory": "."
+  }
+}
